@@ -94,7 +94,7 @@ sections:
           date_start: '2018-07-01'
           date_end: '2019-06-30'  
 
-        - title: Chief Medical Residency
+        - title: Chief Residency
           company: Wayne State University 
           company_url: ''
           company_logo: wsu
