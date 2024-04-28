@@ -175,7 +175,7 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-      
+
     design:
       # Choose a layout view
       view: compact
@@ -217,7 +217,7 @@ sections:
 
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: collection
     content:
       title: Publications
