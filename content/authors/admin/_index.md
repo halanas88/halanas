@@ -44,14 +44,14 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: rstudio
-        icon_pack: devicon
+        icon: r-project
+        icon_pack: fas
         
       - name: Stata
         description: ''
         percent: 65
-        icon: stata
-        icon_pack: devicon
+        icon: org-x
+        icon_pack: brands
 
       - name: HCUP Databases
         description: ''
