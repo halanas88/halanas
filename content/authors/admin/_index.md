@@ -45,11 +45,10 @@ skills:
         description: ''
         icon: rstudio
         icon_pack: devicon
-      - name: Data Science
+      - name: Stata
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: stata
+        icon_pack: devicon
       - name: SQL
         description: ''
         percent: 40
