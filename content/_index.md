@@ -175,6 +175,7 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+      
     design:
       # Choose a layout view
       view: compact
