@@ -78,7 +78,7 @@ sections:
           date_start: '2022-08-01'
           date_end: ''
         
-        - title: Pulmonary & Critical Care fellowship 
+        - title: Pulmonary & Critical Care Fellowship 
           company: Henry Ford Hospital 
           company_url: ''
           company_logo: hfhs
@@ -94,7 +94,7 @@ sections:
           date_start: '2018-07-01'
           date_end: '2019-06-30'  
 
-        - title: Chief Medical Resident
+        - title: Chief Medical Residency
           company: Wayne State University 
           company_url: ''
           company_logo: wsu
