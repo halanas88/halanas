@@ -45,28 +45,32 @@ skills:
         description: ''
         icon: devicon/rstudio
         icon_pack: devicon
+
       - name: Stata
         description: ''
         icon: stata
         icon_pack: devicon
+
       - name: HCUP Databases
         description: ''
         icon: database
         icon_pack: fas
+
   - name: Academic
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Statistics
         description: ''
-        percent: 60
+        percent: 65
         icon: chart-line
         icon_pack: fas
-      - name: Cats
+
+      - name: Systematic Reviews 
         description: ''
-        percent: 100
-        icon: cat
+        icon: scroll
         icon_pack: fas
+        
       - name: Photography
         description: ''
         percent: 80
