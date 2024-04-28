@@ -45,7 +45,7 @@ skills:
         description: ''
         percent: 80
         icon: r-project
-        icon_pack: brands
+        icon_pack: fab
         
       - name: Stata
         description: ''
