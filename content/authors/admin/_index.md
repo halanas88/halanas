@@ -1,61 +1,50 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Hala Nas, MD
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Hala  
+last_name: Nas
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Physician Scholar 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  - name: Cleveland Clinic
+    url: https://my.clevelandclinic.org/
+  - name: Case Western Reserve University
+    url: https://case.edu/medicine/pqhs/education/clinical-and-translational-science/ms-clinical-research
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Systematic Reviews and Evidence Synthesis
+  - Large database analysis 
+  - Bronchoscopy 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Science in Clinical Research 
+      institution: Case Western Reserve University 
+      year: 2024
+
+    - course: Medical Doctor
+      institution: University of Damascus School of Medicine 
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        icon: rstudio
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 100
