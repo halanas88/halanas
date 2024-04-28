@@ -218,7 +218,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       filters:
         folders:
           - publication
