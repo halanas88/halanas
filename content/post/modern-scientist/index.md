@@ -1,6 +1,7 @@
 ---
 title: How To Be A Modern Career Planner 
 subtitle: Reflections on Jeff Leek's Wisdom 
+date: '2024-04-28'
 authors:
  - admin 
 ---
