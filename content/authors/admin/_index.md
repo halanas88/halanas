@@ -45,13 +45,13 @@ skills:
         description: ''
         percent: 80
         icon: r-project
-        icon_pack: fas
+        icon_pack: brands
         
       - name: Stata
         description: ''
         percent: 65
-        icon: org-x
-        icon_pack: brands
+        icon: square-poll-vertical
+        icon_pack: fas
 
       - name: HCUP Databases
         description: ''
