@@ -89,7 +89,7 @@ sections:
         - title: Clinical Instructor of Medicine 
           company: Wayne State University 
           company_url: ''
-          company_logo: wsu
+          company_logo: wsum
           location: Detroit, MI
           date_start: '2018-07-01'
           date_end: '2019-06-30'  
