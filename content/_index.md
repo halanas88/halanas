@@ -65,7 +65,7 @@ sections:
         - title: Assistant Professor of Medicine 
           company: Cleveland Clinic Lerner College of Medicine  
           company_url: ''
-          company_logo: ccf
+          company_logo: lerner
           location: Cleveland, OH 
           date_start: '2023-05-01'
           date_end: ''
@@ -126,7 +126,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - organization: ABIM  
+        - organization: American Board of Internal Medicine 
           date_start: '2022-11-15'
           description: ''
           icon: abim
@@ -134,24 +134,22 @@ sections:
           title: Critical Care Medicine
           url: ''
 
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - organization: American Board of Internal Medicine   
+          date_start: '2021-11-29'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: abim
+          organization_url: https://www.abim.org/
+          title: Pulmonary Diseases
           url: ''
+
+        - organization: American Board of Internal Medicine  
+          date_start: '2018-10-29'
+          description: ''
+          icon: abim
+          organization_url: https://www.abim.org/
+          title: Internal Medicine
+          url: ''
+    
     design:
       columns: '2'
   - block: collection
@@ -229,63 +227,14 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+  
     design:
       columns: '2'
       view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
