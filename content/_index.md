@@ -65,7 +65,7 @@ sections:
         - title: Assistant Professor of Medicine 
           company: Cleveland Clinic Lerner College of Medicine  
           company_url: ''
-          company_logo: 
+          company_logo: ccf
           location: Cleveland, OH 
           date_start: '2023-05-01'
           date_end: ''
