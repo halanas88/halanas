@@ -7,7 +7,7 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023441014
 
-image: featured.jpg
+image:
 ---
 Fluid resuscitation is a critical component in the management of sick children presenting with acute infections and sepsis. It aims to restore an effective circulating volume, avoiding progression to shock, which can impair end organ perfusion and increase mortality. Fluid administration protocols were established to guide care effectively, some of these commonly used protocols are the Pediatric Advanced Life Support (PALS) and  European Paediatric Life Support (EPLS) in resource-rich settings. 
 
