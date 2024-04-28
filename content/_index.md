@@ -178,7 +178,7 @@ sections:
 
     design:
       # Choose a layout view
-      view: compact
+      view: card
       columns: '2'
   - block: portfolio
     id: projects
@@ -199,6 +199,8 @@ sections:
           tag: '*'
         - name: Guidelines
           tag: Guidelines
+        - name: InstaVlog
+          tag: InstaVlog
         - name: Other
           tag: Other 
     
