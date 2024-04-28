@@ -171,10 +171,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Guidelines
+          tag: Guidelines
         - name: Other
-          tag: Demo
+          tag: Other 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -183,7 +183,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Pancakes
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
