@@ -43,25 +43,24 @@ skills:
     items:
       - name: R
         description: ''
-        icon: rstudio
+        icon: devicon/rstudio
         icon_pack: devicon
       - name: Stata
         description: ''
         icon: stata
         icon_pack: devicon
-      - name: SQL
+      - name: HCUP Databases
         description: ''
-        percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Academic
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: chart-line
         icon_pack: fas
       - name: Cats
         description: ''
