@@ -199,8 +199,6 @@ sections:
           tag: '*'
         - name: Guidelines
           tag: Guidelines
-        - name: InstaVlog
-          tag: InstaVlog
         - name: Other
           tag: Other 
     

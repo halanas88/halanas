@@ -114,4 +114,6 @@ highlight_name: true
 
 I am a pulmonary and critical care physician at the Cleveland Clinic in Ohio. My clinical interests revolve around lung cancer screening, diagnosis and survivorship in addition to pleural diseases. My reserach areas of interest include evidence synthesis, guidelines, large database analysis and prediction modeling
 
+Outside of medicine, I enjoy traveling, horror movies, reading, crime fiction and converting different cake flavors into sweet pancakes!
+
 {style="text-align: justify;"}
