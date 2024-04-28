@@ -1,9 +1,9 @@
 ---
 title: The Seven Rules Of Being A Chicken 
 subtitle: Advice from an avid horror movie fan...
-author:
+date: '2021-11-20'
+authors:
  - admin 
- date: '2021-11-20'
  tags:
   - InstaVlog
 ---
