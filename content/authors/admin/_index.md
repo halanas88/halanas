@@ -43,8 +43,8 @@ skills:
     items:
       - name: R
         description: ''
-        icon: devicon/rstudio
-        icon_pack: devicon
+        icon: hero/sparkles
+        
 
       - name: Stata
         description: ''
@@ -70,7 +70,7 @@ skills:
         description: ''
         icon: scroll
         icon_pack: fas
-        
+
       - name: Photography
         description: ''
         percent: 80
