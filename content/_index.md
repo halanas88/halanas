@@ -127,7 +127,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - organization: ABIM  
-          date_start: '2022-11'
+          date_start: '2022-11-15'
           description: ''
           icon: abim
           organization_url: https://www.abim.org/
