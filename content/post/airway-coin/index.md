@@ -3,9 +3,8 @@ title: An Airway Coin
 author: 
 - admin 
 date: '2022-01-31'
-
+{{< video scr="featured.mp4" controls="yes" >}}
 ---
-
 Bonsoir, mes amis, comment allez-vous?
 It is time… A new story is due
 Quel dommage, what a loss… Summer is almost gone…
