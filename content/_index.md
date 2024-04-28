@@ -201,6 +201,19 @@ sections:
         - name: Other
           tag: Other 
     
+      design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+  - block: markdown
+    content:
+      title: Pancakes
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+
     design:
       columns: '2'
       view: card
@@ -219,20 +232,7 @@ sections:
     content:
       title: Popular Topics
 
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Pancakes
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-     
-
+ 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
