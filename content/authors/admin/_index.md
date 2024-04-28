@@ -43,16 +43,19 @@ skills:
     items:
       - name: R
         description: ''
-        icon: hero/sparkles
+        percent: 80
+        icon: rstudio
+        icon_pack: devicon
         
-
       - name: Stata
         description: ''
+        percent: 65
         icon: stata
         icon_pack: devicon
 
       - name: HCUP Databases
         description: ''
+        percent: 70
         icon: database
         icon_pack: fas
 
@@ -68,11 +71,13 @@ skills:
 
       - name: Systematic Reviews 
         description: ''
+        percent: 70
         icon: scroll
         icon_pack: fas
 
       - name: Photography
-       
+        description: ''
+        percent: 70
         icon: camera-retro
         icon_pack: fas
 
