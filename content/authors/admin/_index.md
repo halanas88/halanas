@@ -75,10 +75,10 @@ skills:
         icon: scroll
         icon_pack: fas
 
-      - name: Photography
+      - name: Pulmonary Medicine
         description: ''
-        percent: 70
-        icon: camera-retro
+        percent: 95
+        icon: lungs
         icon_pack: fas
 
 # Social/Academic Networking
