@@ -70,14 +70,47 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Staff Physician  
+          company: Cleveland Clinic Respiratory Institute 
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ccf
+          location: Cleveland, OH 
+          date_start: '2022-08-01'
+          date_end: ''
+        
+        - title: Pulmonary & Critical Care fellowship 
+          company: Henry Ford Hospital 
+          company_url: ''
+          company_logo: hfhs
+          location: Detroit, MI 
+          date_start: '2019-07-01'
+          date_end: '2022-06-30'
+
+        - title: Clinical Instructor of Medicine 
+          company: Wayne State University 
+          company_url: ''
+          company_logo: wsu
+          location: Detroit, MI
+          date_start: '2018-07-01'
+          date_end: '2019-06-30'  
+
+        - title: Chief Medical Resident
+          company: Wayne State University 
+          company_url: ''
+          company_logo: wsu
+          location: Detroit, MI
+          date_start: '2018-07-01'
+          date_end: '2019-06-30'
+
+        - title: Internal Medicine Residency 
+          company: Wayne State University 
+          company_url: ''
+          company_logo: wsu
+          location: Detroit, MI
+          date_start: '2015-07-01'
+          date_end: '2018-06-30'  
+        
+      
     design:
       columns: '2'
   - block: accomplishments
