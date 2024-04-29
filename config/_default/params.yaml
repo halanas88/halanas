@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: teal
+  theme_day: cyan
   theme_night: minimal
   font: minimal
   font_size: L
