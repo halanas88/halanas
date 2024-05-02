@@ -169,7 +169,7 @@ sections:
           description: ''
           icon: inguide
           title: Certified Guideline Panelist 
-          url: ''
+        
 
        - organization: SAS 
           organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
@@ -177,7 +177,7 @@ sections:
           description: ''
           icon: sas
           title: SAS Certified Specialist  
-          url: ''
+        
     
     design:
       columns: '2'
