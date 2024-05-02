@@ -116,8 +116,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Board&shy;Certification'
-      subtitle:
+      title: 'Certification'
+      subtitle: 'Board Certification'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -149,9 +149,8 @@ sections:
           organization_url: https://www.abim.org/
           title: Internal Medicine
           url: ''
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certificates'
-      subtitle:
+
+      subtitle: 'Certificates'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -161,18 +160,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - organization: International Guideline Training and Certification Program 
-          organization_url: https://inguide.org/
           date_start: '2024-04-30'
           description: ''
           icon: inguide
+          organization_url: https://inguide.org/
           title: Certified Guideline Panelist 
           url: ''
 
        - organization: SAS 
-         organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
          date_start: '2024-12-15'
          description: ''
          icon: sas
+         organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
          title: SAS Certified Specialist
          url: ''  
 
