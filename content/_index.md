@@ -149,8 +149,6 @@ sections:
           organization_url: https://www.abim.org/
           title: Internal Medicine
           url: ''
-
-    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificates'
       subtitle:
@@ -169,7 +167,7 @@ sections:
           icon: inguide
           title: Certified Guideline Panelist 
           url: ''
-        
+
        - organization: SAS 
          organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
          date_start: '2024-12-15'
