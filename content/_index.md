@@ -113,7 +113,7 @@ sections:
       
     design:
       columns: '2'
-  - block: boards
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Board&shy;Certification'
@@ -150,7 +150,6 @@ sections:
           title: Internal Medicine
           url: ''
 
-  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificates'
@@ -164,20 +163,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - organization: International Guideline Training and Certification Program 
-          organization_url: https://inguide.org/
+          url: https://inguide.org/
           date_start: '2024-04-30'
           description: ''
           icon: inguide
           title: Certified Guideline Panelist 
         
-
        - organization: SAS 
-          organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
+          url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
           date_start: '2024-12-15'
           description: ''
           icon: sas
           title: SAS Certified Specialist  
-        
+
+      - organization: Stanford University Faculty Development Center  
+          date_start: '2018-12-31'
+          description: ''
+          icon: stanford
+          title: Stanford Clinical Teaching Program 
+          url: ''    
     
     design:
       columns: '2'
