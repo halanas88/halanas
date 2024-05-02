@@ -113,7 +113,7 @@ sections:
       
     design:
       columns: '2'
-  - block: accomplishments
+  - block: boards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Board&shy;Certification'
@@ -148,6 +148,35 @@ sections:
           icon: abim
           organization_url: https://www.abim.org/
           title: Internal Medicine
+          url: ''
+
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Certificates'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - organization: International Guideline Training and Certification Program 
+          organization_url: https://inguide.org/
+          date_start: '2024-04-30'
+          description: ''
+          icon: inguide
+          title: Certified Guideline Panelist 
+          url: ''
+
+       - organization: SAS 
+          organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
+          date_start: '2024-12-15'
+          description: ''
+          icon: sas
+          title: SAS Certified Specialist  
           url: ''
     
     design:
@@ -201,6 +230,8 @@ sections:
           tag: Guidelines
         - name: Other
           tag: Other 
+        - name: Large Data
+          tag: Large Data
     
       design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
