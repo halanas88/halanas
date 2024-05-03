@@ -153,7 +153,14 @@ sections:
   - block: accomplishments
     content:
       title: 'Certification'
-      
+       
+      - organization: International Guideline Training and Certification Program 
+        date_start: '2024-04-30'
+        description: ''
+        organization_url: https://inguide.org/
+        title: Certified Guideline Panelist 
+        url: ''
+
     
     design:
       columns: '2'
