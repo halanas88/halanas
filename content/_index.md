@@ -109,15 +109,13 @@ sections:
           location: Detroit, MI
           date_start: '2015-07-01'
           date_end: '2018-06-30'  
-        
-      
+     
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certification'
-      subtitle: '**Board Certification'
+      title: 'Board Certification'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -159,8 +157,22 @@ sections:
           url: ''
 
 
+    design:
+      columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Certification'
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 
+      
     design:
       columns: '2'
   - block: collection
