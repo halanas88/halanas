@@ -154,25 +154,6 @@ sections:
     content:
       title: 'Certification'
       
-      - organization: International Guideline Training and Certification Program 
-        date_start: '2024-04-30'
-        description: ''
-        organization_url: https://inguide.org/
-        title: Certified Guideline Panelist 
-        url: ''
-
-      - organization: SAS 
-        date_start: '2024-12-15'
-        description: ''
-        organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
-        title: SAS Certified Specialist
-        url: '' 
-
-      - organization: Stanford University Faculty Development Center  
-        date_start: '2018-12-31'
-        description: ''
-        title: Stanford Clinical Teaching Program 
-        url: ''    
     
     design:
       columns: '2'
