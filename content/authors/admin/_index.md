@@ -43,19 +43,19 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 80
+        percent: 85
         icon: r-project
         icon_pack: fab
         
       - name: Stata
         description: ''
-        percent: 65
+        percent: 70
         icon: square-poll-vertical
         icon_pack: fas
 
       - name: HCUP Databases
         description: ''
-        percent: 70
+        percent: 85
         icon: database
         icon_pack: fas
 
@@ -65,13 +65,13 @@ skills:
     items:
       - name: Statistics
         description: ''
-        percent: 65
+        percent: 75
         icon: chart-line
         icon_pack: fas
 
       - name: Systematic Reviews 
         description: ''
-        percent: 70
+        percent: 80
         icon: scroll
         icon_pack: fas
 
