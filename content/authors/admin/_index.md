@@ -81,6 +81,12 @@ skills:
         icon: lungs
         icon_pack: fas
 
+      - name: Critical Care Medicine 
+        description: ''
+        percent: 95
+        icon: bed-pulse
+        icon_pack: fas
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
