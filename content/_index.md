@@ -164,7 +164,7 @@ sections:
         url: ''
 
       - organization: SAS 
-        date_start: '2024-12-15'
+        date_start: '2023-12-15'
         description: ''
         icon: sas
         organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
