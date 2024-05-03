@@ -117,7 +117,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certification'
-      subtitle: 'Board Certification'
+      subtitle: '**Board Certification'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
