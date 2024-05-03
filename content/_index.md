@@ -167,7 +167,7 @@ sections:
       - organization: International Guideline Training and Certification Program 
         date_start: '2024-04-30'
         description: ''
-        icon: sas
+        icon: ''
         organization_url: https://inguide.org/
         title: Certified Guideline Panelist 
         url: ''
