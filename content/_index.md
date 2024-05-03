@@ -153,7 +153,8 @@ sections:
   - block: accomplishments
     content:
       title: 'Certification'
-       
+      items:
+      
       - organization: International Guideline Training and Certification Program 
         date_start: '2024-04-30'
         description: ''
