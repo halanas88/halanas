@@ -183,7 +183,7 @@ sections:
       - organization: Stanford University Faculty Development Center  
         date_start: '2018-12-31'
         description: ''
-        icon: stanford
+        icon: sas
         title: Stanford Clinical Teaching Program 
         url: ''    
     
