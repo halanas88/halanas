@@ -148,8 +148,6 @@ sections:
           title: Internal Medicine
           url: ''
 
-
-
     design:
       columns: '2'
   - block: accomplishments
@@ -157,7 +155,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certification'
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -167,7 +165,6 @@ sections:
       - organization: International Guideline Training and Certification Program 
         date_start: '2024-04-30'
         description: ''
-        icon: ''
         organization_url: https://inguide.org/
         title: Certified Guideline Panelist 
         url: ''
@@ -175,7 +172,6 @@ sections:
       - organization: SAS 
         date_start: '2024-12-15'
         description: ''
-        icon: ''
         organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
         title: SAS Certified Specialist
         url: '' 
@@ -183,7 +179,6 @@ sections:
       - organization: Stanford University Faculty Development Center  
         date_start: '2018-12-31'
         description: ''
-        icon: ''
         title: Stanford Clinical Teaching Program 
         url: ''    
     
