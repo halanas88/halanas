@@ -150,38 +150,6 @@ sections:
           title: Internal Medicine
           url: ''
 
-      subtitle: 'Certificates'
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - organization: International Guideline Training and Certification Program 
-          date_start: '2024-04-30'
-          description: ''
-          icon: inguide
-          organization_url: https://inguide.org/
-          title: Certified Guideline Panelist 
-          url: ''
-
-       - organization: SAS 
-         date_start: '2024-12-15'
-         description: ''
-         icon: sas
-         organization_url: https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html
-         title: SAS Certified Specialist
-         url: ''  
-
-       - organization: Stanford University Faculty Development Center  
-         date_start: '2018-12-31'
-         description: ''
-         icon: stanford
-         title: Stanford Clinical Teaching Program 
-         url: ''    
-    
     design:
       columns: '2'
   - block: collection
